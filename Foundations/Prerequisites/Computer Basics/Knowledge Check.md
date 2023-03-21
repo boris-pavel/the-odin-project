@@ -2,7 +2,7 @@
 
 ## Is Windows an operating system or an application?
 
-Windows is an operationg system, it makes the connection between hardware and software.
+Windows is an operating system, it makes the connection between hardware and software.
 
 ## What's the difference between open source and closed source software?
 
