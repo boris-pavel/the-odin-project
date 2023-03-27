@@ -26,3 +26,14 @@ const container = document.querySelector('.content');
 container.appendChild(para);
 container.appendChild(headerThree);
 container.appendChild(div);
+
+const btn = document.querySelector('#btn');
+btn.addEventListener('click', function (e) {
+    e.target.style.background='blue';
+  });
+
+const btn2 = document.querySelector('#btn2');
+btn2.addEventListener('click', () => {
+  alert("Hello World");
+});
+
