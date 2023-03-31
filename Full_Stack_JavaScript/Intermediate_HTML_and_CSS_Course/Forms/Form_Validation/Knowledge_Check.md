@@ -4,7 +4,7 @@ Makes the input mandatory.
 
 ## What validations can you use for checking text length?
 
-`minlength` adn `maxlength`.
+`minlength` and `maxlength`.
 
 ## How can you validate the minimum and maximum of numeric inputs?
 
