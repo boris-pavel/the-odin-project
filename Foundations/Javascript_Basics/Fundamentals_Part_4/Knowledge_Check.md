@@ -4,7 +4,7 @@ An array is a container that can store multiple values.
 
 ## What are arrays useful for?
 
-Organisation.
+Organization.
 
 ## How do you access an array element?
 
@@ -34,7 +34,7 @@ Doing the same task over and over again.
 ## What is the break statement?
 
 Break statement stops a loop.
- 
+
 ## What is the continue statement?
 
 Continue statement skips onto the next iteration of the loop.
